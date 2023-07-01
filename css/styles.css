@@ -1,0 +1,36 @@
+body {
+  background-color: aliceblue;
+  font-family: "comic sans ms"
+}
+
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 10%
+}
+
+h1{
+  color: #0AA1DD;
+}
+
+h2{
+  color: #79DAE8;
+}
+
+h3{
+  color: #99C4C8;
+}
+
+p{
+  color :#484848;
+}
+
+table{
+  color :#484848;
+}
+
+ul{
+  color :#484848;
+}
